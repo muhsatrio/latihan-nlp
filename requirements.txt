@@ -6,3 +6,5 @@ pandas
 nltk
 scikit-learn
 jupyter
+jupyter_contrib_nbextensions
+PyPDF2
